@@ -1,6 +1,6 @@
 {
-  "short_name": "Стоматология Смайл-А",
-  "name": "Стоматология Смайл-А",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
